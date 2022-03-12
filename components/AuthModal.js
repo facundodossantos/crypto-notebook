@@ -153,7 +153,7 @@ const AuthModal = ({ show = false, onClose = () => null }) => {
                       <a className="flex items-center space-x-1">
                         <SparklesIcon className="shrink-0 w-8 h-8 text-rose-500" />
                         <span className="text-xl font-semibold tracking-wide">
-                          Supa<span className="text-rose-500">Vacation</span>
+                          Crypto<span className="text-rose-500">Notebook</span>
                         </span>
                       </a>
                     </Link>
